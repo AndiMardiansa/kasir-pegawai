@@ -1,15 +1,10 @@
 ========= STRUK PEMBELIAN =========
-Barang  : mie
+Barang  : hp
 Harga   : 12000
-Jumlah  : 3
-Subtotal: 36000
-----------------------------
-Barang  : helm
-Harga   : 67000
 Jumlah  : 2
-Subtotal: 134000
+Subtotal: 24000
 ----------------------------
-TOTAL     : 170000
-BAYAR     : 200000
-KEMBALIAN : 30000
+TOTAL     : 24000
+BAYAR     : 23000
+KEMBALIAN : -1000
 =================================
