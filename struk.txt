@@ -1,10 +1,14 @@
 ========= STRUK PEMBELIAN =========
-Barang  : hp
-Harga   : 12000
-Jumlah  : 2
-Subtotal: 24000
+Kasir   : Hanif
+Tanggal : 07-07-2026
+Member  : Tidak
 ----------------------------
-TOTAL     : 24000
-BAYAR     : 23000
-KEMBALIAN : -1000
+Indomie Goreng x3 = Rp10500
+Aqua 600ml x1 = Rp4000
+----------------------------
+Subtotal  : 14500
+Diskon    : 0
+TOTAL     : 14500
+BAYAR     : 15000
+KEMBALIAN : 500
 =================================
